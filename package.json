@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ansi": "^0.3.1"
-  }
+    "ansi": "^0.3.1",
+    "simple-spinner": "0.0.5"
+  },
+  "type": "module"
 }
