@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "ansi": "^0.3.1",
+    "chalk": "^4.1.0",
     "simple-spinner": "0.0.5"
   },
   "type": "module"
